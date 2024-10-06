@@ -8,7 +8,7 @@ This project can be extended to other cryptocurrencies as well.
 
 Project Steps
 
-Load in data
-Clean and merge data
-Create an initial machine learning model and estimate accuracy
-Switch to a more powerful model and improve our predictors
+  -Load in data
+  -Clean and merge data
+  -Create an initial machine learning model and estimate accuracy
+  -Switch to a more powerful model and improve our predictors
